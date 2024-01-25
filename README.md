@@ -2,7 +2,7 @@
 
 - 🤖 I’m interested in Learning RPA HardCode with Python
 - 🌱 I’m currently working with RPA Low-Code using Uipath
-- 💞️ I’m looking to collaborate on Projects HardCode
+- 💞️ I’m looking to collaborate With Codes that can be used in others Process
 - ⚡ Fun fact: Why did automation break up with manual work? It needed space to process its feelings without any human errors
 
 <div align="center">
